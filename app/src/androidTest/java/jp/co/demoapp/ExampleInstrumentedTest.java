@@ -1,4 +1,4 @@
-package i_kanri.prv.demoapp;
+package jp.co.demoapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

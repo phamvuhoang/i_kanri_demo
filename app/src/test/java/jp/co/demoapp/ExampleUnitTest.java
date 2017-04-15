@@ -1,4 +1,4 @@
-package i_kanri.prv.demoapp;
+package jp.co.demoapp;
 
 import org.junit.Test;
 
